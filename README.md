@@ -10,3 +10,4 @@ xcode-select --install
 ```sh
 git config --global credential.helper osxkeychain
 ```
+https://blueasa.tistory.com/2275. 
